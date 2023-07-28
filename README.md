@@ -30,9 +30,6 @@ Backend:
 - Passport.js (for user authentication and authorization)
 - CORS (Cross-Origin Resource Sharing) for handling cross-origin requests.
 
-![Project 1 Preview](![Shoe eCommerce website](https://user-images.githubusercontent.com/53366194/256873697-498f5da0-c669-4991-b3fc-5de61e22f551.png)
-)
-
 ### Project 2: [Blog Website](https://github.com/ggg6r34t/ghyorka-blog)
 
 > The Blog website is a user-friendly platform created with a blend of modern technologies.
@@ -52,9 +49,6 @@ Backend:
 - requests (for communication with external APIs)
 - SQLAlchemy (for database management)
 - psycopg2-binary (for PostgreSQL database connections)
-
-![Project 2 Preview](![Blog website](https://user-images.githubusercontent.com/53366194/256872948-718ab6ad-6445-46e3-ae0e-d78754d5aab0.png)
-)
 
 ## 📚 Technologies and 🔒 Cybersecurity Tools I Love
 
