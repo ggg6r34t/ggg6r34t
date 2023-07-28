@@ -33,6 +33,8 @@ I'm Ghyorka, a passionate developer, and cybersecurity professional. I love to e
   Read more
 </summary>
 
+<br >
+
 Frontend:
 
 - React
@@ -55,6 +57,13 @@ Backend:
 
 > The Blog website is a user-friendly platform created with a blend of modern technologies.
 
+<details>
+<summary>
+  Read more
+</summary>
+
+<br >
+
 Frontend:
 
 - HTML
@@ -70,6 +79,8 @@ Backend:
 - requests (for communication with external APIs)
 - SQLAlchemy (for database management)
 - psycopg2-binary (for PostgreSQL database connections)
+
+</details>
 
 ## 💬 Let's Connect
 
