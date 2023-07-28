@@ -8,9 +8,20 @@ I'm Ghyorka, a passionate developer, and cybersecurity professional. I love to e
 - 🛠️ Building an exciting web application to simplify people's lives.
 - 💡 Contributing to open-source projects to give back to the community.
 
+## 📚 Technologies and 🔒 Cybersecurity Tools I Love
+
+- **Python** 🐍 - My go-to language for versatile applications.
+- **TypeScript** 🌐 - For crafting scalable and type-safe web experiences.
+- **React** ⚛️ - My preferred framework for front-end development.
+- **MongoDB** 🍃 - When diving into the world of NoSQL databases.
+- **Docker** 🐳 - For containerizing and deploying my applications.
+- **Metasploit Framework** 💻 - Harnessing the power of penetration testing and exploitation.
+- **Nessus** 🕵️‍♂️ - My go-to vulnerability scanner for comprehensive assessments.
+- **Burp Suite** 🐛 - Unleashing the capabilities of web application security testing.
+
 ## 🌟 Featured Projects
 
-### Project 1: [Shoe eCommerce Website](https://github.com/ggg6r34t/fullstack-project)
+### [Shoe eCommerce Website](https://github.com/ggg6r34t/fullstack-project)
 
 > The Shoe eCommerce website is a cutting-edge online platform that leverages a modern tech stack to deliver a seamless shopping experience for customers.
 
@@ -30,7 +41,7 @@ Backend:
 - Passport.js (for user authentication and authorization)
 - CORS (Cross-Origin Resource Sharing) for handling cross-origin requests.
 
-### Project 2: [Blog Website](https://github.com/ggg6r34t/ghyorka-blog)
+### [Blog Website](https://github.com/ggg6r34t/ghyorka-blog)
 
 > The Blog website is a user-friendly platform created with a blend of modern technologies.
 
@@ -49,17 +60,6 @@ Backend:
 - requests (for communication with external APIs)
 - SQLAlchemy (for database management)
 - psycopg2-binary (for PostgreSQL database connections)
-
-## 📚 Technologies and 🔒 Cybersecurity Tools I Love
-
-- **Python** 🐍 - My go-to language for versatile applications.
-- **TypeScript** 🌐 - For crafting scalable and type-safe web experiences.
-- **React** ⚛️ - My preferred framework for front-end development.
-- **MongoDB** 🍃 - When diving into the world of NoSQL databases.
-- **Docker** 🐳 - For containerizing and deploying my applications.
-- **Metasploit Framework** 💻 - Harnessing the power of penetration testing and exploitation.
-- **Nessus** 🕵️‍♂️ - My go-to vulnerability scanner for comprehensive assessments.
-- **Burp Suite** 🐛 - Unleashing the capabilities of web application security testing.
 
 ## 💬 Let's Connect
 
