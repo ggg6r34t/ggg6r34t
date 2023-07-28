@@ -20,7 +20,6 @@ I'm Ghyorka, a passionate developer, and cybersecurity professional. I love to e
 - **Burp Suite** 🐛 - Unleashing the capabilities of web application security testing.
 
 <br />
-<br />
 
 ## 🌟 Featured Projects
 
