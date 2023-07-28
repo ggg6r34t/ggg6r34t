@@ -19,11 +19,19 @@ I'm Ghyorka, a passionate developer, and cybersecurity professional. I love to e
 - **Nessus** 🕵️‍♂️ - My go-to vulnerability scanner for comprehensive assessments.
 - **Burp Suite** 🐛 - Unleashing the capabilities of web application security testing.
 
+<br />
+<br />
+
 ## 🌟 Featured Projects
 
 ### [Shoe eCommerce Website](https://github.com/ggg6r34t/fullstack-project)
 
 > The Shoe eCommerce website is a cutting-edge online platform that leverages a modern tech stack to deliver a seamless shopping experience for customers.
+
+<details>
+<summary>
+  Read more
+</summary>
 
 Frontend:
 
@@ -40,6 +48,8 @@ Backend:
 - Mongoose (for MongoDB object modeling)
 - Passport.js (for user authentication and authorization)
 - CORS (Cross-Origin Resource Sharing) for handling cross-origin requests.
+
+</details>
 
 ### [Blog Website](https://github.com/ggg6r34t/ghyorka-blog)
 
