@@ -2,6 +2,8 @@
 
 I'm Ghyorka, a passionate developer, and cybersecurity professional. I love to explore new technologies and build innovative solutions that make a positive impact on the world. Here, you'll find a mix of projects and contributions related to both development and cybersecurity.
 
+<br />
+
 ## 🚀 What I'm Currently Working On
 
 - 🌱 Exploring Linear Regression and Data Visualisation with Seaborn.
