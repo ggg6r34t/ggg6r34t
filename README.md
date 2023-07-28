@@ -8,7 +8,7 @@ I'm Ghyorka, a passionate developer, and cybersecurity professional. I love to e
 - 🛠️ Building an exciting web application to simplify people's lives.
 - 💡 Contributing to open-source projects to give back to the community.
 
-## 📚 Technologies and 🔒 Cybersecurity Tools I Love
+## 📚 Technologies and Tools I Love
 
 - **Python** 🐍 - My go-to language for versatile applications.
 - **TypeScript** 🌐 - For crafting scalable and type-safe web experiences.
