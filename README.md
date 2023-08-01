@@ -12,14 +12,14 @@ I'm Ghyorka, a passionate developer, and cybersecurity professional. I love to e
 
 ## 📚 Technologies and Tools I Love
 
-- **Python** 🐍 - My go-to language for versatile applications.
-- **TypeScript** 🌐 - For crafting scalable and type-safe web experiences.
-- **React** ⚛️ - My preferred framework for front-end development.
-- **MongoDB** 🍃 - When diving into the world of NoSQL databases.
-- **Docker** 🐳 - For containerizing and deploying my applications.
-- **Metasploit Framework** 💻 - Harnessing the power of penetration testing and exploitation.
-- **Nessus** 🕵️‍♂️ - My go-to vulnerability scanner for comprehensive assessments.
-- **Burp Suite** 🐛 - Unleashing the capabilities of web application security testing.
+- ![Python](https://img.shields.io/badge/-Python-%23FFD43B?style=flat-square&logo=python&logoColor=white) - My go-to language for versatile applications.
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC?style=flat-square&logo=typescript&logoColor=white) - For crafting scalable and type-safe web experiences.
+- ![React](https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=react&logoColor=white) - My preferred framework for front-end development.
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white) - When diving into the world of NoSQL databases.
+- ![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=docker&logoColor=white) - For containerizing and deploying my applications.
+- ![Metasploit Framework](https://img.shields.io/badge/-Metasploit%20Framework-%23E34F26?style=flat-square&logo=metasploit&logoColor=white) - Harnessing the power of penetration testing and exploitation.
+- ![Nessus](https://img.shields.io/badge/-Nessus-%2312738C?style=flat-square&logo=nessus&logoColor=white) - My go-to vulnerability scanner for comprehensive assessments.
+- ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-%23FF5722?style=flat-square&logo=burpsuite&logoColor=white) - Unleashing the capabilities of web application security testing.
 
 <br />
 
