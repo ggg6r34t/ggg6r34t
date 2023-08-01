@@ -89,7 +89,7 @@ I'm always excited to discuss new ideas, collaborate on projects, or just have a
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ggg6r34t&show_icons=true&count_private=true&hide=prs,issues&hide_title=true&theme=radical)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ggg6r34t&show_icons=true&count_private=true&hide_title=true&theme=radical)
 
 ## 🌈 GitHub Trophies
 
