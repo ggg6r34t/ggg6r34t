@@ -93,7 +93,7 @@ I'm always excited to discuss new ideas, collaborate on projects, or just have a
 
 ## 🌈 GitHub Trophies
 
-![Your Name's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ggg6r34t)
+![Your Name's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ggg6r34t&theme=radical)
 
 ## 🎵 Currently Playing
 
