@@ -36,14 +36,14 @@ I'm Ghyorka, a passionate developer, and cybersecurity professional. I love to e
 
 <br >
 
-Frontend:
+**Frontend:**
 
 - React
 - TypeScript
 - Redux (for state management)
 - Material UI (for user interface design)
 
-Backend:
+**Backend:**
 
 - Node.js
 - Express.js (as the server framework)
@@ -65,7 +65,7 @@ Backend:
 
 <br >
 
-Frontend:
+**Frontend:**
 
 - HTML
 - CSS
@@ -73,7 +73,7 @@ Frontend:
 - WTForms (for form handling)
 - Jinja (for template rendering)
 
-Backend:
+**Backend:**
 
 - Python
 - Flask (as the server framework)
@@ -89,7 +89,7 @@ I'm always excited to discuss new ideas, collaborate on projects, or just have a
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ggg6r34t&show_icons=true&hide_title=true)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ggg6r34t&show_icons=true&count_private=true&hide=prs,issues&hide_title=true&theme=radical)
 
 ## 🌈 GitHub Trophies
 
@@ -98,6 +98,10 @@ I'm always excited to discuss new ideas, collaborate on projects, or just have a
 ## 🎵 Currently Playing
 
 ![Spotify](https://novatorem-psi.vercel.app/api/spotify)
+
+## 🙏 Thank You
+
+Thank you for visiting my profile and checking out my projects. If you found anything interesting, don't forget to ⭐️ the repositories! Happy coding! 🚀
 
 ---
 
