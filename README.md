@@ -36,14 +36,14 @@ I'm Ghyorka, a passionate developer, and cybersecurity professional. I love to e
 
 <br >
 
-#### Frontend:
+### Frontend:
 
 - React
 - TypeScript
 - Redux (for state management)
 - Material UI (for user interface design)
 
-#### Backend:
+### Backend:
 
 - Node.js
 - Express.js (as the server framework)
@@ -65,7 +65,7 @@ I'm Ghyorka, a passionate developer, and cybersecurity professional. I love to e
 
 <br >
 
-#### Frontend:
+### Frontend:
 
 - HTML
 - CSS
@@ -73,7 +73,7 @@ I'm Ghyorka, a passionate developer, and cybersecurity professional. I love to e
 - WTForms (for form handling)
 - Jinja (for template rendering)
 
-#### Backend:
+### Backend:
 
 - Python
 - Flask (as the server framework)
