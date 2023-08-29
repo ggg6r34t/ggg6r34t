@@ -12,27 +12,14 @@ I'm a passionate developer and cybersecurity professional. I love to explore new
 
 ## 📚 Technologies and Tools I Love
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/johnthedominator/johnthedominator-plain.svg" alt="John The Reaper" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hydra/hydra-original.svg" alt="Hydra" width="40" height="40" />
-</div>
+- ![Python](https://img.shields.io/badge/-Python-%23FFD43B?style=flat-square&logo=python&logoColor=white) - My go-to language for versatile applications.
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC?style=flat-square&logo=typescript&logoColor=white) - For crafting scalable and type-safe web experiences.
+- ![React](https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=react&logoColor=white) - My preferred framework for front-end development.
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white) - When diving into the world of NoSQL databases.
+- ![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=docker&logoColor=white) - For containerizing and deploying my applications.
+- ![Metasploit Framework](https://img.shields.io/badge/-Metasploit%20Framework-%23E34F26?style=flat-square&logo=metasploit&logoColor=white) - Harnessing the power of penetration testing and exploitation.
+- ![Nessus](https://img.shields.io/badge/-Nessus-%2312738C?style=flat-square&logo=nessus&logoColor=white) - My go-to vulnerability scanner for comprehensive assessments.
+- ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-%23FF5722?style=flat-square&logo=burpsuite&logoColor=white) - Unleashing the capabilities of web application security testing.
 
 <br />
 
