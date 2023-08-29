@@ -13,28 +13,28 @@ I'm a passionate developer and cybersecurity professional. I love to explore new
 ## 📚 Technologies and Tools I Love
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-Python-%23FFD43B?style=flat-square&logo=python&logoColor=white" alt="Python" width="40" height="40" />
-  <img src="https://img.shields.io/badge/-TypeScript-%23007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" width="40" height="40" />
-  <img src="https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=react&logoColor=white" alt="React" width="40" height="40" />
-  <img src="https://img.shields.io/badge/-MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" width="40" height="40" />
-  <img src="https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" width="40" height="40" />
-  <img src="https://img.shields.io/badge/-Metasploit%20Framework-%23E34F26?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit Framework" width="40" height="40" />
-  <img src="https://img.shields.io/badge/-Nessus-%2312738C?style=flat-square&logo=nessus&logoColor=white" alt="Nessus" width="40" height="40" />
-  <img src="https://img.shields.io/badge/-Burp%20Suite-%23FF5722?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite" width="40" height="40" />
-  <img src="https://img.shields.io/badge/-Node.js-%23339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" width="40" height="40" />
-  <img src="https://img.shields.io/badge/-Express.js-%23000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" width="40" height="40" />
-  <img src="https://img.shields.io/badge/-Redux-%23764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux" width="40" height="40" />
-  <img src="https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" width="40" height="40" />
-  <img src="https://img.shields.io/badge/-Kubernetes-%23326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" width="40" height="40" />
-  <img src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=white" alt="Git" width="40" height="40" />
-  <img src="https://img.shields.io/badge/-Jenkins-%23D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" width="40" height="40" />
-  <img src="https://img.shields.io/badge/-Postman-%23FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" width="40" height="40" />
-  <img src="https://img.shields.io/badge/-Bash-%234EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" width="40" height="40" />
-  <img src="https://img.shields.io/badge/-Tailwind%20CSS-%231E40AF?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" width="40" height="40" />
-  <img src="https://img.shields.io/badge/-Material%20UI-%230081CB?style=flat-square&logo=material-ui&logoColor=white" alt="Material UI" width="40" height="40" />
-  <img src="https://img.shields.io/badge/-Go-%2300ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" width="40" height="40" />
-  <img src="https://img.shields.io/badge/-John%20The%20Reaper-%237869FF?style=flat-square&logo=john-the-ripper&logoColor=white" alt="John The Reaper" width="40" height="40" />
-  <img src="https://img.shields.io/badge/-Hydra-%235350B9?style=flat-square&logo=hydra&logoColor=white" alt="Hydra" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/metasploit/metasploit-original.svg" alt="Metasploit Framework" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nessus/nessus-original.svg" alt="Nessus" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/burp/burp-original.svg" alt="Burp Suite" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/johnthedominator/johnthedominator-plain.svg" alt="John The Reaper" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hydra/hydra-original.svg" alt="Hydra" width="40" height="40" />
 </div>
 
 <br />
