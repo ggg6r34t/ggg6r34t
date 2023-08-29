@@ -1,6 +1,6 @@
-# Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> Welcome to my GitHub Profile!
+# Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> I'm Ghyorka!
 
-I'm Ghyorka, a passionate developer, and cybersecurity professional. I love to explore new technologies and build innovative solutions that make a positive impact on the world. Here, you'll find a mix of projects and contributions related to both development and cybersecurity.
+I'm a passionate developer and cybersecurity professional. I love to explore new technologies and build innovative solutions that make a positive impact on the world. Here, you'll find a mix of projects and contributions related to both development and cybersecurity.
 
 <br />
 
