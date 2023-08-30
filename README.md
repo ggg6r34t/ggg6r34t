@@ -30,9 +30,9 @@ I'm a passionate developer and cybersecurity professional. I love to explore new
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/filezilla/filezilla-plain.svg"" title="FileZilla" alt="FileZilla" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/filezilla/filezilla-plain.svg" title="FileZilla" alt="FileZilla" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" title="Heroku" alt="Heroku" width="40" height="40" />
-  <img src="https://avatars.githubusercontent.com/u/25723225" title="Render" alt="Render" width="40" height="40" />
+  <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_477db83f729d63210139ec7cd29c1351/render-render.png" title="Render" alt="Render" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40" />
