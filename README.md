@@ -10,16 +10,55 @@ I'm a passionate developer and cybersecurity professional. I love to explore new
 - 🛠️ Building an exciting web application to simplify people's lives.
 - 💡 Contributing to open-source projects to give back to the community.
 
-## 📚 Technologies and Tools I Love
+## 📚 Technologies and Tools I Use & Love
 
-- ![Python](https://img.shields.io/badge/-Python-%23FFD43B?style=flat-square&logo=python&logoColor=white) - My go-to language for versatile applications.
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC?style=flat-square&logo=typescript&logoColor=white) - For crafting scalable and type-safe web experiences.
-- ![React](https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=react&logoColor=white) - My preferred framework for front-end development.
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white) - When diving into the world of NoSQL databases.
-- ![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=docker&logoColor=white) - For containerizing and deploying my applications.
-- ![Metasploit Framework](https://img.shields.io/badge/-Metasploit%20Framework-%23E34F26?style=flat-square&logo=metasploit&logoColor=white) - Harnessing the power of penetration testing and exploitation.
-- ![Nessus](https://img.shields.io/badge/-Nessus-%2312738C?style=flat-square&logo=nessus&logoColor=white) - My go-to vulnerability scanner for comprehensive assessments.
-- ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-%23FF5722?style=flat-square&logo=burpsuite&logoColor=white) - Unleashing the capabilities of web application security testing.
+<div align="center">
+ <div style="width: 877px; height: 125px; border: 2px solid #ccc; padding: 20px; display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40" />
+  <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" title="Metasploit Framework" alt="Metasploit Framework" width="40" height="40" />
+  <img src="https://www.airslate.com/preview/explorebots/security/nessus.svg" title="Nessus" alt="Nessus" width="40" height="40" />
+  <img src="https://nmap.org/images/nmap-logo-256x256.png" title="Nmap" alt="Nmap" width="40" height="40" />
+  <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" title="Burp Suite" alt="Burp Suite" width="40" height="40" />
+  <img src="https://www.kali.org/tools/gobuster/images/gobuster-logo.svg" title="Gobuster" alt="Gobuster" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/filezilla/filezilla-plain.svg"" title="FileZilla" alt="FileZilla" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" title="Heroku" alt="Heroku" width="40" height="40" />
+  <img src="https://avatars.githubusercontent.com/u/25723225" title="Render" alt="Render" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" title="SQLAlchemy" alt="SQLAlchemy" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40" />
+  <img src="https://jestjs.io/img/jest.svg" title="Jest" alt="Jest" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-plain.svg" title="Pytest" alt="Pytest" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" title="Express.js" alt="Express.js" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" title="Redux.js" alt="Redux.js" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" alt="Git" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" title="Jenkins" alt="Jenkins" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40" />
+  <img src="https://www.kali.org/tools/john/images/john-logo.svg" title="John The Reaper" alt="John The Reaper" width="40" height="40" />
+  <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" title="Hydra" alt="Hydra" width="40" height="40" />
+  </div>
+</div>
 
 <br />
 
